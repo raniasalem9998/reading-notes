@@ -2,7 +2,7 @@
 
 READ | LINK
 --------|---------
-READ 01|[R01]()
+READ 01|[R01](https://raniasalem9998.github.io/reading-notes/class-01)
 READ 02|[R02]()
 READ 03|[R03]()
 READ 04|[R04]()

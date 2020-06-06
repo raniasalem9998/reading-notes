@@ -55,8 +55,11 @@ state your goal and then list the tasks that need to be completed in order to ac
 * DESIGN THE SCRIPT 
 * CODE EACH STEP 
 Start with the big picture of what you want to achieve, and break that down into smaller steps. Once you know the goal, you can work out the task that can be represented usind a flowchart.
+
  ### 
+
 <img src="https://agilemodeling.com/images/models/flowChart.JPG" alt="flowchart" width="200">
 
 ### 
+
 then list some steps.
