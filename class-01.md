@@ -35,7 +35,7 @@ Elements can be:
 
 ### *PROCESS AND DESIGN*
 
-* Ask yourself:
+ Ask yourself:
 - What is your site for?
 - Why people visit your site?
 - What your visitors are tring to acheave?
@@ -46,6 +46,7 @@ Elements can be:
 * Gouping in styles is important too.
 
 ## **JS**
+### ABC'S
  A script is a series of instructions that a
 computer can follow to achieve a goal. 
  To write a script, you need to first
