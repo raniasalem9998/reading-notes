@@ -29,32 +29,44 @@ Elements can be:
 - There are some characters used for spesific perpoces preserved in the html.
 
 ### *HTML5*
- The layot is 
- ### 
+
+ The layot is
+
+ ###
+
 ![img](img/download.jpg)
 
 ### *PROCESS AND DESIGN*
 
  Ask yourself:
+
 - What is your site for?
 - Why people visit your site?
 - What your visitors are tring to acheave?
 - What info needed?
 - How often are you visited?
+
 * You also need to make maps for your site to link the links. you can use wireframes to design the display.
+
 * Its better to use colors and bold fonts and styles to take attention.
+
 * Gouping in styles is important too.
 
 ## **JS**
+
 ### ABC'S
+
  A script is a series of instructions that a
 computer can follow to achieve a goal. 
  To write a script, you need to first
 state your goal and then list the tasks that need to be completed in order to achieve it.
             
 * DEFINE THE GOAL
+
 * DESIGN THE SCRIPT 
-* CODE EACH STEP 
+
+* CODE EACH STEP
+ 
 Start with the big picture of what you want to achieve, and break that down into smaller steps. Once you know the goal, you can work out the task that can be represented usind a flowchart.
 
  ### 
