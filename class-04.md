@@ -1,5 +1,5 @@
 # Read: 04 - HTML Links, CSS Layout, JS Functions
-<link href="style.css"></link>
+<link href="style.css">
 
 ## *HTML*
 
