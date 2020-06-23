@@ -6,7 +6,7 @@
  - first we need to download chart.js then install. 
  -  to start working on your html use 
  ```html
- <script src="charrt.min.js'></script>
+ <script src="chart.min.js'></script>
  ```
  - then start making your chart ( line,bar or pie) , define a variable i js and then add new chart (var).pie(piedata,pieOptions).
  - define lables and database.
